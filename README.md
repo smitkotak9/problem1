@@ -1,2 +1,2 @@
 # Solution Repo to Problem 1
- Included is Python Code for the Solution.
+ The Python code for the solution is included.
